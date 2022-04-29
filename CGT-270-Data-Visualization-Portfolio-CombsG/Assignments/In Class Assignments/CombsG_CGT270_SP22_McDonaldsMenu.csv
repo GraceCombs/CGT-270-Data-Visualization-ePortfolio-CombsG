@@ -1,0 +1,29 @@
+Category,Item,Serving Size,Calories,Calories from Fat,Total Fat,Total Fat (% Daily Value),Saturated Fat,Saturated Fat (% Daily Value),Trans Fat,Cholesterol,Cholesterol (% Daily Value),Sodium,Sodium (% Daily Value),Carbohydrates,Carbohydrates (% Daily Value),Dietary Fiber,Dietary Fiber (% Daily Value),Sugars,Protein,Vitamin A (% Daily Value),Vitamin C (% Daily Value),Calcium (% Daily Value),Iron (% Daily Value)
+Smoothies & Shakes,Blueberry Pomegranate Smoothie (Small),12 fl oz cup,220,5,0.5,1,0,0,0,5,1,40,2,50,17,3,12,44,2,0,2,6,2
+Smoothies & Shakes,Blueberry Pomegranate Smoothie (Medium),16 fl oz cup,260,5,1,1,0,0,0,5,1,50,2,62,21,4,15,54,3,0,4,8,2
+Smoothies & Shakes,Blueberry Pomegranate Smoothie (Large),22 fl oz cup,340,10,1,2,0.5,3,0,5,2,65,3,79,26,5,19,70,4,0,4,10,2
+Smoothies & Shakes,Strawberry Banana Smoothie (Small),12 fl oz cup,210,5,0.5,1,0,0,0,5,1,50,2,47,16,3,10,44,3,0,30,8,2
+Smoothies & Shakes,Strawberry Banana Smoothie (Medium),16 fl oz cup,250,5,1,1,0,0,0,5,1,60,2,58,19,3,13,54,4,0,35,8,4
+Smoothies & Shakes,Strawberry Banana Smoothie (Large),22 fl oz cup,330,10,1,2,0.5,3,0,5,2,80,3,74,25,4,16,70,5,0,45,10,4
+Smoothies & Shakes,Mango Pineapple Smoothie (Small),12 fl oz cup,210,5,0.5,1,0,0,0,5,1,40,2,50,17,1,4,46,2,30,20,8,2
+Smoothies & Shakes,Mango Pineapple Smoothie (Medium),16 fl oz cup,260,10,1,1,0,0,0,5,1,45,2,61,20,1,5,56,3,40,25,8,2
+Smoothies & Shakes,Mango Pineapple Smoothie (Large),22 fl oz cup,340,10,1,2,0.5,3,0,5,2,60,3,78,26,2,6,72,4,50,30,10,2
+Smoothies & Shakes,Vanilla Shake (Small),12 fl oz cup,530,140,15,24,10,49,1,60,20,160,7,86,29,0,0,63,11,20,0,40,0
+Smoothies & Shakes,Vanilla Shake (Medium),16 fl oz cup,660,170,19,29,12,61,1,75,24,200,9,109,36,0,0,81,14,25,0,50,0
+Smoothies & Shakes,Vanilla Shake (Large),22 fl oz cup,820,210,23,35,15,73,1,90,29,260,11,135,45,0,0,101,18,30,0,60,0
+Smoothies & Shakes,Strawberry Shake (Small),12 fl oz cup,550,150,16,25,10,52,1,60,21,160,7,90,30,0,0,79,12,20,0,40,0
+Smoothies & Shakes,Strawberry Shake (Medium),16 fl oz cup,690,180,20,30,13,63,1,75,25,210,9,114,38,0,0,100,15,25,0,50,0
+Smoothies & Shakes,Strawberry Shake (Large),22 fl oz cup,850,210,24,36,15,75,1,90,30,260,11,140,47,0,0,123,18,30,0,70,0
+Smoothies & Shakes,Chocolate Shake (Small),12 fl oz cup,560,150,16,25,10,51,1,60,20,240,10,91,30,1,5,77,12,20,0,40,8
+Smoothies & Shakes,Chocolate Shake (Medium),16 fl oz cup,700,180,20,30,12,62,1,75,24,300,13,114,38,2,6,97,15,25,0,50,10
+Smoothies & Shakes,Chocolate Shake (Large),22 fl oz cup,850,210,23,36,15,74,1,85,29,380,16,141,47,2,8,120,19,30,0,60,15
+Smoothies & Shakes,Shamrock Shake (Medium),16 fl oz cup,660,170,19,29,12,61,1,75,24,210,9,109,36,0,0,93,14,25,0,50,0
+Smoothies & Shakes,Shamrock Shake (Large),22 fl oz cup,820,210,23,35,15,73,1,90,29,260,11,135,45,0,0,115,18,30,0,60,0
+Smoothies & Shakes,McFlurry with M&M’s Candies (Small),10.9 oz (310 g),650,210,23,35,14,72,0.5,50,17,180,7,96,32,1,6,89,13,15,0,45,8
+Smoothies & Shakes,McFlurry with M&M’s Candies (Medium),16.2 oz (460 g),930,290,33,50,20,102,1,75,25,260,11,139,46,2,7,128,20,25,0,70,10
+Smoothies & Shakes,McFlurry with M&M’s Candies (Snack),7.3 oz (207 g),430,140,15,24,10,48,0,35,11,120,5,64,21,1,4,59,9,10,0,30,4
+Smoothies & Shakes,McFlurry with Oreo Cookies (Small),10.1 oz (285 g),510,150,17,26,9,44,0.5,45,14,280,12,80,27,1,4,64,12,15,0,40,8
+Smoothies & Shakes,McFlurry with Oreo Cookies (Medium),13.4 oz (381 g),690,200,23,35,12,58,1,55,19,380,16,106,35,1,5,85,15,20,0,50,10
+Smoothies & Shakes,McFlurry with Oreo Cookies (Snack),6.7 oz (190 g),340,100,11,17,6,29,0,30,9,190,8,53,18,1,2,43,8,10,0,25,6
+Smoothies & Shakes,McFlurry with Reese's Peanut Butter Cups (Medium),14.2 oz (403 g),810,290,32,50,15,76,1,60,20,400,17,114,38,2,9,103,21,20,0,60,6
+Smoothies & Shakes,McFlurry with Reese's Peanut Butter Cups (Snack),7.1 oz (202 g),410,150,16,25,8,38,0,30,10,200,8,57,19,1,5,51,10,10,0,30,4
